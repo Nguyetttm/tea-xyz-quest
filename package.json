@@ -1,13 +1,13 @@
 {
-  "author": "Chad Smith <chad@nospam.me> (http://twitter.com/chadsmith)",
+  "author": "Nguyet Tran <nguyetttm3110@gmail.com> (http://twitter.com/ttmnguyet31)",
   "name": "nude",
   "description": "Nudity detection for Node.js",
   "keywords": ["images", "filter", "detect"],
   "version": "0.1",
-  "homepage": "https://github.com/chadsmith/node-nude",
+  "homepage": "https://github.com/Nguyetttm/tea-xyz-quest",
   "repository": {
     "type": "git",
-    "url": "git://github.com/chadsmith/node-nude.git"
+    "url": "git://ithub.com/Nguyetttm/tea-xyz-quest.git"
   },
   "engines": {
     "node": ">= v0.4.0"
