@@ -7,7 +7,7 @@
   "homepage": "https://github.com/Nguyetttm/tea-xyz-quest",
   "repository": {
     "type": "git",
-    "url": "git://ithub.com/Nguyetttm/tea-xyz-quest.git"
+    "url": "git://github.com/Nguyetttm/tea-xyz-quest.git"
   },
   "engines": {
     "node": ">= v0.4.0"
